@@ -1,0 +1,40 @@
+@media (min-width: 992px){
+
+    .col-lg-3{
+        float:left
+    }
+
+    .col-lg-3{
+        width: 32%;
+    }
+    
+   
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .col-md-5, .col-md-11{
+        margin-bottom: 1%;
+        float:left
+    }
+
+    .col-md-5{
+        width: 48.5%;
+    }
+    
+    .col-md-11{
+        width: 98%;
+    }
+}
+
+@media (max-width: 767px) {
+
+   .col-sm-11{
+        margin-bottom: 5%;
+        float:left
+    }
+
+    .col-sm-11{
+        width: 98%;
+    }
+}
